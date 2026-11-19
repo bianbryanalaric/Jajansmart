@@ -5,7 +5,7 @@ Project Ujian Tengah Semester (UTS) mata pelajaran Pemrograman Dasar / Koding & 
 ## Identitas Siswa
 * **Nama Lengkap:** Bryan Alaric
 * **Kelas:** X PPLG
-* **No. Absen:** [Isi nomor absen]
+* **No. Absen:** 10
 
 ## Deskripsi Aplikasi
 JajanSmart adalah aplikasi sederhana untuk membantu mengelola uang jajan. Pengguna memasukkan jumlah uang saku, biaya makan, dan biaya transportasi. Program menghitung total pengeluaran, sisa uang, serta rata-rata biaya dari dua jenis pengeluaran. Program juga memberikan keterangan apakah uang saku masih cukup.
